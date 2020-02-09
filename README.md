@@ -11,15 +11,33 @@
 
     ---
 
-  - Задание 1.2
+  - Задание 1.2 Выделить важные этапы в истории развития информатики и их социальные последствия.
+
+    [Интелект-карта](https://github.com/vektoririna/practice_1k_2s/blob/master/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BC%D0%B0%D0%B8%D0%BD%D0%B4%D0%BC%D0%B5%D0%BF.JPG)
+
+    <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fvektoririna%2Fpractice_1k_2s%2Fblob%2Fmaster%2F%25D0%2598%25D1%2581%25D1%2582%25D0%25BE%25D1%2580%25D0%25B8%25D1%258F%2520%25D0%25B8%25D0%25BD%25D1%2584%25D0%25BE%25D1%2580%25D0%25BC%25D0%25B0%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B8%2520%25D0%25BC%25D0%25B0%25D0%25B8%25D0%25BD%25D0%25B4%25D0%25BC%25D0%25B5%25D0%25BF.JPG&chs=180x180&choe=UTF-8&chld=L|2' rel='nofollow' alt='qr code'>
+
+    ---
 
   - Задание по Markdown и Git
 
+    Создайте с помощью разметки Markdown страницу с содержимым [страницы сайта кафедры](https://ict.herzen.spb.ru/department/about-us) 
+
+    Ссылка на репозиторий с файлом [README.md](https://github.com/herzenuni/zadanie-po-markdown-i-git-vektoririna/blob/master/README.md)
+
+    <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fherzenuni%2Fzadanie-po-markdown-i-git-vektoririna%2Fblob%2Fmaster%2FREADME.md&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+
+    ---
+
   - Сайт на основе GitHub
+
+    ---
 
 - **Тема 2**
 
   - Задание 1.3
+
+    ---
 
 - **Тема 3**
 
