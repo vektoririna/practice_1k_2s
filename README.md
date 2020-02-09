@@ -3,9 +3,18 @@
 
 - **Тема 1**
 
-  - Задание 1.1
+  - Задание 1.1 Изучить и проанализировать печатные и Интернет-источники по философским проблемам информатики.
+
+    [Документ-список](https://github.com/vektoririna/practice_1k_2s/blob/master/1.1%20(1).pdf)
+
+    <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fvektoririna%2Fpractice_1k_2s%2Fblob%2Fmaster%2F1.1.pdf&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+
+    ---
+
   - Задание 1.2
+
   - Задание по Markdown и Git
+
   - Сайт на основе GitHub
 
 - **Тема 2**
