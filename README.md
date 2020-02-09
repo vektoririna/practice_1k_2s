@@ -25,7 +25,7 @@
 
     В ходе выполнения задания был выбран именно этот ресурс потому что он в полной мере охватывает все особенности охраны труда программиста, большой упор сделан на охране отдыха, так как профессия программиста связанна с постоянной мозговой нагрузкой. Подробно описаны алгоритмы действий в различных ЧС, так же имеется порядок необходимых действия до начала и после окончания трудовой деятельности. 
 
-    <img src="https://api.qr-code-generator.com/v1/create?access-token=Mni-g-65PJ9ImUcE1P4I-uDLrciRVV_7ykyz50Q3T7366_2w7WDFesT7U4bnlm6O&amp;_lang=en&amp;qr_code_id=13251022&amp;image_format=PNG&amp;image_width=500&amp;foreground_color=%23000000&amp;background_color=%23ffffff&amp;frame_color=%23000000&amp;frame_name=no-frame&amp;account_frame_id=0&amp;frame_text=&amp;frame_text_color=%23FFFFFF&amp;frame_text_alignment=center&amp;frame_text_font=noto-sans&amp;frame_icon_name=&amp;marker_left_template=version17&amp;marker_left_inner_color=&amp;marker_left_outer_color=&amp;marker_right_template=version17&amp;marker_right_inner_color=&amp;marker_right_outer_color=&amp;marker_bottom_template=version17&amp;marker_bottom_inner_color=&amp;marker_bottom_outer_color=&amp;qr_code_logo=no-logo&amp;download=0&amp;error_correction=&amp;qr_code_pattern=&amp;rnd=1581244844169" style="zoom: 25%;" />
+    <img src="C:\Users\vekto\Downloads\qr-code.png" alt="qr-code" style="zoom:25%;" />
 
   - Задание 1.7
 
