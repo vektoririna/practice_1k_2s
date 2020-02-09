@@ -27,7 +27,7 @@
 
     
 
-    <img src='https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2Fsysot.ru%2F%25D0%25B8%25D0%25BD%25D1%2581%25D1%2582%25D1%2580%25D1%2583%25D0%25BA%25D1%2586%25D0%25B8%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%25BE%25D1%2585%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B5-%25D1%2582%25D1%2580%25D1%2583%25D0%25B4%25D0%25B0-%25D0%25B4%25D0%25BB%25D1%258F-%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%2F&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'>
+<img src='https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2Fsysot.ru%2F%25D0%25B8%25D0%25BD%25D1%2581%25D1%2582%25D1%2580%25D1%2583%25D0%25BA%25D1%2586%25D0%25B8%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%25BE%25D1%2585%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B5-%25D1%2582%25D1%2580%25D1%2583%25D0%25B4%25D0%25B0-%25D0%25B4%25D0%25BB%25D1%258F-%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%2F&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'>
 
     ---
 
@@ -37,7 +37,7 @@
 
     [Документ](http://www.consultant.ru/document/cons_doc_LAW_58804/e14327394d63c4f451508a6f2d1ae0c7d73e9359/)
 
-    <img src='https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2Fwww.consultant.ru%2Fdocument%2Fcons_doc_LAW_58804%2Fe14327394d63c4f451508a6f2d1ae0c7d73e9359%2F&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'>
+<img src='https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2Fwww.consultant.ru%2Fdocument%2Fcons_doc_LAW_58804%2Fe14327394d63c4f451508a6f2d1ae0c7d73e9359%2F&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'>
 
     ---
 
