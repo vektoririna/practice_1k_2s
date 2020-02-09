@@ -51,7 +51,11 @@
 
   - Задание 1.9 Изучить Постановление Главного государственного санитарного врача РФ от 21.06.2016 N 81 "Об утверждении СанПиН 2.2.4.3359-16 "Санитарно-эпидемиологические требования к физическим факторам на рабочих местах" 
 
-    
+    [План-конспект](https://github.com/vektoririna/practice_1k_2s/blob/master/1.9.pdf)
+
+    <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fvektoririna%2Fpractice_1k_2s%2Fblob%2Fmaster%2F1.9.pdf&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'>
+
+    ---
 
 - **Тема 5**
 
