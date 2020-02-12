@@ -143,5 +143,9 @@
   
   - Задание 2.4 Изучить технические средства информационно-вычислительной системы предприятия (организации).
   
+    [Документ]()
+    
+    <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fvektoririna%2Fpractice_1k_2s%2Fblob%2Fmaster%2F2.4.pdf&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+    
     ---
 
